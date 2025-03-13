@@ -1,5 +1,4 @@
-Third change in branch2
-
+Third change in branch2 and branch1
 
 # Airbnb JavaScript Style Guide() {
 
